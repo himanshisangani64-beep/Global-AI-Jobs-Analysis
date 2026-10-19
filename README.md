@@ -113,9 +113,8 @@ The dashboard presents an overview of global AI jobs, salary trends, specializat
 
 **Dashboard Screenshot:**
 
-![Global AI Jobs Analysis Dashboard](Images/Dashboard_Image.png)
 
-[View Dashboard Image](Images/Dashboard_Image.png)
+[View Dashboard Image](Image/Dashboard_Image.png)
 
 ## 🔍 Key Insights
 
